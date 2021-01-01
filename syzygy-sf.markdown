@@ -1,6 +1,7 @@
 ---
 title: Syzygy SF
 date: 2021-01-01 19:33:00 Z
+permalink: "/"
 Members:
 - name: Nobel Yoo
   picture: url
