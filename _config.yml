@@ -2,6 +2,9 @@
 title: syzygy
 timezone: UTC
 collections:
+  art:
+    title: Art
+    output: true
   posts:
     title: Posts
     output: true
