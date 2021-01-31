@@ -1,0 +1,31 @@
+---
+title: syzygy
+timezone: UTC
+collections:
+  art:
+    title: Art
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  writing:
+    title: Writing
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
+description: testing
+respository: fizzy123/syzygysf-main
